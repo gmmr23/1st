@@ -1,1 +1,2 @@
-https://github.com/gmmr23/1st/blob/main/AWS%20virtual%20internship%20certificate.pdf[AWS virtual internship certificate.pdf](https://github.com/user-attachments/files/16371400/AWS.virtual.internship.certificate.pdf)
+AWS certificate
+[AWS virtual internship certificate.pdf](https://github.com/user-attachments/files/16371414/AWS.virtual.internship.certificate.pdf)
